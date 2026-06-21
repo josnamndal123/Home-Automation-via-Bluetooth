@@ -3,3 +3,5 @@
 - **ID:** `CITS2604`  
 - **Domain:** `EMBEDED SYSTEMS`  
 - **Internship Duration:**  `June 12, 2026` – `July 10, 2026
+
+## project scope 
