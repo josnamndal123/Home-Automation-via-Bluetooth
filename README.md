@@ -7,3 +7,5 @@
 - **Internship Duration:**  `June 12, 2026` – `July 10, 2026
 
 ## project scope 
+
+Bluetooth-based home automation is a simple and low-cost embedded system used for controlling home appliances using a smartphone.
