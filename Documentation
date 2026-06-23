@@ -1,0 +1,26 @@
+## Project Title
+
+Home Automation System using Bluetooth (HC-05) and Arduino
+
+## Objectives
+
+To control home appliances like light and fan using a smartphone via Bluetooth technology
+
+## Working Principle
+
+Mobile app sends ON/OFF command → HC-05 Bluetooth receives data → Arduino processes signal → Relay switches the device.
+
+##  Circuit Connections
+
+HC-05 to Arduino
+
+- VCC → 5V
+- GND → GND
+- TX → RX (Pin 0)
+- RX → TX (Pin 1)
+- Relay Module to Arduino
+- VCC → 5V
+- GND → GND
+- IN → Pin 8
+- Load (Bulb/Fan)
+- Connected through relay COM and NO terminals
