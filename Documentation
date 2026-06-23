@@ -26,3 +26,25 @@ HC-05 to Arduino
 ##  Load (Bulb/Fan)
 
 - Connected through relay COM and NO terminals
+
+##  Components Required
+
+- Arduino Uno
+- HC-05 Bluetooth Module
+- Relay Module (1 channel)
+- LED bulb / fan (demo load)
+- Jumper wires
+- Breadboard
+- 5V power supply
+- Android smartphone
+
+##  Applications
+
+- Smart home automation
+- College mini project
+- Industrial control system
+- IoT learningbase
+
+## Result
+
+The system successfully controls home appliances wirelessly using a smartphone via Bluetooth.
