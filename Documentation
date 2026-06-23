@@ -22,5 +22,7 @@ HC-05 to Arduino
 - VCC → 5V
 - GND → GND
 - IN → Pin 8
-- Load (Bulb/Fan)
+
+##  Load (Bulb/Fan)
+
 - Connected through relay COM and NO terminals
