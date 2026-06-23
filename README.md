@@ -12,7 +12,7 @@ Bluetooth-based home automation is a simple and low-cost embedded system used fo
 
 ## Components Used
 
-Main Components:
+## Main Components:
 
 - 0Arduino Uno / ESP32 (Microcontroller)
 - HC-05 / HC-06 Bluetooth Module
@@ -23,11 +23,22 @@ Main Components:
 
 - 5V USB supply or adapter
   
-Load Devices:
+## Load Devices:
 
 LED bulb / AC bulb (for demo)
 Fan (optional demonstration load)
 
-Control Device:
+## Control Device:
 
 Android smartphone with Bluetooth terminal/control app
+
+## Features
+
+- Wireless control using mobile
+- Low cost project
+- Easy to build
+- Works without internet
+- Fast ON/OFF response
+- Limited range (5–10 meters)
+- Can control multiple devices (using relay)
+Can be upgraded to IoT system
